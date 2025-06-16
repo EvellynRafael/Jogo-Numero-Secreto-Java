@@ -4,8 +4,8 @@ Crie um programa que simula um jogo de adivinhação, que deve gerar um número 
 
 # Dicas:
 
-Para gerar um número aleatório em Java: new Random().nextInt(100);
-Utilize o Scanner para obter os dados do usuário;
-Utilize uma variável para contar as tentativas;
-Utilize um loop para controlar as tentativas;
-Utilize a instrução break; para interromper o loop.
+- Para gerar um número aleatório em Java: new Random().nextInt(100);
+- Utilize o Scanner para obter os dados do usuário;
+- Utilize uma variável para contar as tentativas;
+- Utilize um loop para controlar as tentativas;
+- Utilize a instrução break; para interromper o loop.
